@@ -25,6 +25,12 @@ Open http://localhost:3000 and try uploading a screenshot or the sample image.
 
 - `GEMINI_API_KEY` — required to call the Gemini model from server routes.
 
+## Screenshots
+
+<img width="2560" height="1282" alt="screencapture-studious-xylophone-pxwxv9xggqq396xp-3000-app-github-dev-2025-10-15-16_58_32" src="https://github.com/user-attachments/assets/c62f7226-a80e-4cc1-bc1b-aa332d83baca" />
+
+<img width="2560" height="1282" alt="screencapture-studious-xylophone-pxwxv9xggqq396xp-3000-app-github-dev-2025-10-15-17_04_25" src="https://github.com/user-attachments/assets/c7cafe73-5d52-4217-a896-da5ea81346c4" />
+
 ## Key files
 
 - `app/page.tsx` — client UI for uploading images and streaming generated code.
