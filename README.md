@@ -1,7 +1,7 @@
 
   <h1 align="center">Pixareact</h1>
 
-Pixareact converts screenshots, wireframes, and sketches into working React + Tailwind TypeScript apps using a multimodal AI backend.
+Pixareact converts screenshots, wireframes, and sketches into working React + Tailwind TypeScript apps using a multimodal Gemini AI backend.
 
 <img width="2560" height="1324" alt="screencapture-studious-xylophone-pxwxv9xggqq396xp-3000-app-github-dev-2025-10-15-17_15_24" src="https://github.com/user-attachments/assets/44c7cfe9-f4a7-4d86-87a7-decf0d62ac1c" />
 
